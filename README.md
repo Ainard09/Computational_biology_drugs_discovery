@@ -1,4 +1,4 @@
-# Computational_biology_drug_discovery
+# Computational_biology_drugs_discovery
 ## Motivations
 
 **Drug discovery** is the process of identifying and developing new medications to treat or prevent diseases. This involves a combination of scientific research, drug design, and preclinical testing to identify molecules that have the potential to become safe and effective drugs. The process typically begins with the identification of a target molecule or biological pathway that is involved in a disease, followed by the screening of large numbers of compounds to identify those that have the desired **biological activity**. Once a promising compound has been identified, it undergoes preclinical testing to assess its safety and efficacy before proceeding to clinical trials in humans. The area of focus on this project is **Alhzeimer's disease** and working on predictive drug with high potency at IC50 to inhibit the causative enzyme.
